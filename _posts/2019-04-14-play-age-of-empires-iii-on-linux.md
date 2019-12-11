@@ -4,7 +4,6 @@ title: How to Play Age of Empires III on Linux (Invalid CD Key Error)
 date: 2019-04-14T22:35:23-07:00
 author: VeryBadFrags
 layout: post
-guid: http://verybadfrags.com/?p=191
 permalink: /2019/04/14/play-age-of-empires-iii-on-linux/
 timeline_notification:
   - "1555306529"

@@ -4,7 +4,6 @@ title: 'Google Stadia - Specs and Analysis'
 date: 2019-03-19T21:05:12-07:00
 author: VeryBadFrags
 layout: post
-guid: https://vbfrags.wordpress.com/?p=116
 permalink: /2019/03/19/google-stadia-specs-and-analysis/
 timeline_notification:
   - "1553054718"
