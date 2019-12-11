@@ -10,14 +10,9 @@ sharing_disabled:
 switch_like_status:
   - 'a:1:{i:0;i:0;}'
 ---
-<!-- wp:paragraph -->
-<p>Email: blog (at) verybadfrags</p>
-<!-- /wp:paragraph -->
+Email: blog (at) verybadfrags
 
-<!-- wp:heading -->
-<h2>Support us</h2>
-<!-- /wp:heading -->
+## Support us
 
-<!-- wp:list -->
-<ul><li>BTC 1KM6g9oGZuuXxWsy1nUCUVQgEJX5SLbT41</li><li>ETH 0xfEdDf7df013c6c748DfB6418eD89D886D441EF60</li></ul>
-<!-- /wp:list -->
+* BTC 1KM6g9oGZuuXxWsy1nUCUVQgEJX5SLbT41
+* ETH 0xfEdDf7df013c6c748DfB6418eD89D886D441EF60

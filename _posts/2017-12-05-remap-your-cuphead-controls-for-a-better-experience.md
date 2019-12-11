@@ -14,8 +14,9 @@ tags:
   - Controls
   - Cuphead
   - Tips
+comments: true
 ---
-![Hero](wp-content/uploads/2018/10/cuphead_hero.png)
+![Hero](/wp-content/uploads/2018/10/cuphead_hero.png)
 
 Cuphead is an awesome game, but it is also extremely hard. Each level will try your reflexes, and the slightest mistake will be severely punished. While everything in the game is trying to kill you, I have found that you may be able to perform better just by remapping your controls.
 
@@ -27,10 +28,30 @@ While pretty standard, the default controller mapping is rather inefficient as i
 
 For a more comfortable experience, try the following mapping:
 
-![Controller Mapping](wp-content/uploads/2018/10/controller.png)
+![Controller Mapping](/wp-content/uploads/2018/10/controller.png)
 
 * The shooting buttons are moved to the triggers - which are always accessible.
 * Jumping and dashing are handled by your right thumb.
 * Moving and locking are both controlled by your left hand.
 
 This new mapping has helped me finish a handful of bosses that were giving me a hard time. Good luck!
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+        this.page.url = '{{ page.url | absolute_url }}';
+        this.page.identifier = '{{ page.id}}';
+    };
+
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
+        
+        s.src = 'https://verybadfrags.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{% endif %}

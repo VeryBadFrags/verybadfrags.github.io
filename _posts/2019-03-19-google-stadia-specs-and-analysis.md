@@ -21,6 +21,7 @@ tags:
   - Streaming
   - Vulkan
   - Windows
+comments: true
 ---
 ![Google Stadia](/wp-content/uploads/2019/03/stadia-1.png)
 

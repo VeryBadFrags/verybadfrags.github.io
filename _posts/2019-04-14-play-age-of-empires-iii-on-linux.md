@@ -25,6 +25,7 @@ tags:
   - Tutorial
   - Wine
   - winetricks
+comments: true
 ---
 ![Age of Empires III](/wp-content/uploads/2019/04/age-3-hero.png)
 
@@ -100,3 +101,23 @@ Feel free to comment bellow if you are still experiencing issues playing the gam
 *Thanks to JT for the updated protontricks instructions, as the original project is no longer maintained.*
 
 * [Age of Empires III on ProtonDB](https://www.protondb.com/app/105450)
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+        this.page.url = '{{ page.url | absolute_url }}';
+        this.page.identifier = '{{ page.id}}';
+    };
+
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
+        
+        s.src = 'https://verybadfrags.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{% endif %}
