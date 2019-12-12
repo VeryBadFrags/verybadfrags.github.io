@@ -28,7 +28,7 @@ twitter_username: "@verybadfrags"
 github_username:  VeryBadFrags
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
