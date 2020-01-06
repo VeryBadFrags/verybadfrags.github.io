@@ -5,6 +5,7 @@ date: 2019-03-20T07:45:50-07:00
 author: VeryBadFrags
 layout: page
 guid: http://verybadfrags.com/?page_id=173
+permalink: /node-flood/
 ---
 
 Node Flood is a turn-based 2D puzzle game in which you are pitched  against an artificial intelligence trying to infect your network.
