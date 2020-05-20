@@ -96,7 +96,7 @@ That's it! You should be able to (painstakingly) input your CD key and play the 
 ![Game Screenshot](/wp-content/uploads/2019/04/age-3-game-screenshot.png)
 *Looking good for a game from 2005*
 
-Feel free to comment bellow if you are still experiencing issues playing the game.
+Feel free to comment below if you are still experiencing issues playing the game.
 
 *Thanks to JT for the updated protontricks instructions, as the original project is no longer maintained.*
 
