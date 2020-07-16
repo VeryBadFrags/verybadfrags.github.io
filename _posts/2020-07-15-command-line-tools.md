@@ -1,5 +1,5 @@
 ---
-title: 10 Useful Command-Line Tools
+title: 12 Useful Command-Line Tools
 date: 2020-07-15T17:44:00-07:00
 author: VeryBadFrags
 layout: post
@@ -69,6 +69,10 @@ youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch\?v\=
 
 Record, convert and stream audio / video.
 
+```shell
+ffmpeg -i input.mp4 output.avi
+```
+
 ## [languagetool](https://languagetool.org)
 
 A free offline grammar / spelling checker. Warning: it requires JRE for the offline client.
@@ -102,11 +106,15 @@ Time: 1949ms for 1 sentences (0.5 sentences/sec)
 
 If you manage a Wordpress instance, `wpscan` lets you look for known vulnerabilities based on the software version, plugins, themes, exposed internal resources, etc... The tool generates a report with details about the vulnerabilities, so that you can act to mitigate the issue.
 
+```shell
+wpscan -u your_blog_url
+```
+
 ## [rig](https://rig.sourceforge.io)
 
 `rig` generates a random identity from a pool of names and locations.
 
-```sh
+```shell
 $ rig -m
 Paul Bentley
 857 Flanty Terr
@@ -117,6 +125,28 @@ Emporia, KS  66801
 ## [pass](https://www.passwordstore.org)
 
 A simple password manager that uses gpg. The file-based format lets you easily synchronize your store using git or other file sync tools.
+
+```shell
+$ pass username/verybadfrags.com
+hunter2
+```
+
+## [jq](https://stedolan.github.io/jq/)
+
+Manipulate and filter JSONs.
+
+```shell
+$ echo '{"foo": 0, "bar" : "abc"}' | jq .bar
+"abc"
+```
+
+## [mpv](https://mpv.io)
+
+A powerful media player.
+
+```shell
+mpv https://www.youtube.com/watch?v=dQw4w9WgXcQ
+```
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
