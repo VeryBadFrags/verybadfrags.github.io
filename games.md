@@ -1,12 +1,17 @@
 ---
-id: 173
-title: Node Flood
-date: 2019-03-20T07:45:50-07:00
+id: 10
+title: Games
+date: 2020-07-15T20:11:00-07:00
 author: VeryBadFrags
 layout: page
-guid: http://verybadfrags.com/?page_id=173
-permalink: /node-flood/
+permalink: /games/
 ---
+# Renard
+
+Renard is a prototype for a terminal-based puzzle-adventure game.
+[Play the demo on itch.io](https://verybadfrags.itch.io/renard).
+
+# Node Flood
 
 Node Flood is a turn-based 2D puzzle game in which you are pitched  against an artificial intelligence trying to infect your network.
 
