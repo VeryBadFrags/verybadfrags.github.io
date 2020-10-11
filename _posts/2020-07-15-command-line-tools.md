@@ -33,7 +33,7 @@ curl "wttr.in/paris?m"
 Convert an image into another format, with rich customization options.
 
 ```shell
-magick image.jpg image.png 
+magick input.jpg output.png 
 ```
 
 ## [mat2](https://0xacab.org/jvoisin/mat2)
@@ -77,7 +77,7 @@ ffmpeg -i input.mp4 output.avi
 
 ## [languagetool](https://languagetool.org)
 
-A free offline grammar / spelling checker. Warning: it requires JRE for the offline client.
+A free offline grammar / spelling checker. Warning: requires JRE for the offline client.
 
 ```shell
 $ echo "This frase is knot gret." | languagetool -l en-US
