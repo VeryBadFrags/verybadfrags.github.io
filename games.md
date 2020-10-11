@@ -1,7 +1,6 @@
 ---
 id: 10
 title: Games
-date: {}
 author: VeryBadFrags
 layout: page
 permalink: /games/
