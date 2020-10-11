@@ -1,8 +1,5 @@
-vendor
-.DS_Store
-
-# Created by https://www.gitignore.io/api/jekyll
-# Edit at https://www.gitignore.io/?templates=jekyll
+# Created by https://www.toptal.com/developers/gitignore/api/jekyll
+# Edit at https://www.toptal.com/developers/gitignore?templates=jekyll
 
 ### Jekyll ###
 _site/
@@ -10,4 +7,4 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
-# End of https://www.gitignore.io/api/jekyll
+# End of https://www.toptal.com/developers/gitignore/api/jekyll
