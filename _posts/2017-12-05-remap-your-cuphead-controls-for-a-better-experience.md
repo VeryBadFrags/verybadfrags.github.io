@@ -16,13 +16,11 @@ tags:
   - Tips
 comments: true
 ---
-![Hero]({{ page.image }})
+![Cuphead]({{ page.image }})
 
 Cuphead is an awesome game, but it is also extremely hard. Each level will try your reflexes, and the slightest mistake will be severely punished. While everything in the game is trying to kill you, I have found that you may be able to perform better just by remapping your controls.
 
-<!-- wp:more -->
-<!--more-->
-<!-- /wp:more -->
+<!-- more -->
 
 While pretty standard, the default controller mapping is rather inefficient as it involves hogging your precious right thumb on the Shoot button, keeping it away from the special attack button and making the jumps awkward.
 

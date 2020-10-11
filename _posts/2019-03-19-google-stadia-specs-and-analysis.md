@@ -25,9 +25,7 @@ comments: true
 
 Today, Google announced [Stadia](https://store.google.com/magazine/stadia), its new game streaming service. Following up on their successful [Project Stream](https://projectstream.google.com) experiment, they are now ready to release a full platform later this year, and the features look definitely promising. If this platform manages to get enough attention and support from Google, this could mean a lot for gamers and the gaming industry in general.
 
-<!-- wp:more -->
-<!--more-->
-<!-- /wp:more -->
+<!-- more -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ry72b_fIKAk" frameborder="0" allow="clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
@@ -50,14 +48,12 @@ This is what we know so far about Stadia:
 * **Release date**: 2019
 
 ## From Project Stream to Stadia
-
-![Assassin's Creed Odyssey](/assets/stadia/assassins-creed-odyssey-hud-2.jpg)
+{% include image.html url="/assets/stadia/assassins-creed-odyssey-hud-2.jpg" description="Assassin's Creed Odyssey" %}
 
 Google has already shown that they can handle smoothly streaming AAA games with Project Stream. The experiment let you play [Ubisoft's Assassin's Creed Odyssey](https://www.youtube.com/watch?v=ACZpHzBKCqU) in 1080p 60fps at full settings on basically any desktop that's able to run Chrome. The beta was really impressive and I was able to complete the game very comfortably. There were times where the video would drop to lower bitrates to make up for the poor connection, similar to what you can experience with a regular stream. Also, I had a couple of occurrences (over dozens of hours of gameplay) where my connection was bad enough that it rendered the game completely unplayable for several minutes. Yet, the overall convenience of the service makes me willing to put up with its current flaws.
 
 ## Streaming comes with nice perks
-
-![Konami Code](/assets/stadia/konami-e1553054350799.png)
+{% include image.html url="/assets/stadia/konami-e1553054350799.png" description="The game controller features the Konami Code" %}
 
 Google's service will let you play AAA games on an old netbook. This is already nice in itself, but it gets even better the more you think about it.
 

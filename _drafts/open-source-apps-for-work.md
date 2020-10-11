@@ -13,9 +13,7 @@ tags:
   - Linux
 comments: true
 ---
-![Photo by Marvin Meyer on Unsplash]({{ page.image }})
-
-Photo by [Marvin Meyer](https://unsplash.com/@marvelous?utm_source=unsplash&amp;utm_medium=referral&amp) on [Unsplash](https://unsplash.com/s/photos/work?utm_source=unsplash&amp;utm_medium=referral&amp)
+{% include image.html url=page.image description="Photo by Marvin Meyer on Unsplash" %}
 
 Here is a list of open source software that are useful in a professional context.
 

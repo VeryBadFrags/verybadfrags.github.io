@@ -14,9 +14,11 @@ tags:
   - Linux
 comments: true
 ---
-![Weather report for Paris from wttr.in]({{ page.image }})
+{% include image.html url=page.image description="Weather report for Paris from wttr.in" %}
 
 Here are some cool command-line tools I use. Feel free to share your tips in the comments.
+
+<!-- more -->
 
 ## [wttr.in](https://wttr.in)
 
