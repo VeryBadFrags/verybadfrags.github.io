@@ -8,7 +8,7 @@ layout: page
 
 ## Who we are
 
-Our website address is: <https://verybadfrags.com>
+Our website address is: <https://www.verybadfrags.com>
 
 ## What personal data we collect and why we collect it
 
