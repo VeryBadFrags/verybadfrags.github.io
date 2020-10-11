@@ -6,8 +6,8 @@
 gem install bundler
 ```
 
-## Build
+## Serve
 
 ```shell
-bundle exec jekyll serve --drafts
+make
 ```
