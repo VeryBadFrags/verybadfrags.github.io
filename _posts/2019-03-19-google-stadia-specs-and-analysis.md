@@ -48,12 +48,12 @@ This is what we know so far about Stadia:
 * **Release date**: 2019
 
 ## From Project Stream to Stadia
-{% include image.html url="/assets/stadia/assassins-creed-odyssey-hud-2.jpg" alt="Assassin's Creed Odyssey" description="Assassin's Creed Odyssey" %}
+{% include image.html url="/assets/stadia/assassins-creed-odyssey-hud-2.jpg" alt="Assassin's Creed Odyssey" caption="Assassin's Creed Odyssey" %}
 
 Google has already shown that they can handle smoothly streaming AAA games with Project Stream. The experiment let you play [Ubisoft's Assassin's Creed Odyssey](https://www.youtube.com/watch?v=ACZpHzBKCqU) in 1080p 60fps at full settings on basically any desktop that's able to run Chrome. The beta was really impressive and I was able to complete the game very comfortably. There were times where the video would drop to lower bitrates to make up for the poor connection, similar to what you can experience with a regular stream. Also, I had a couple of occurrences (over dozens of hours of gameplay) where my connection was bad enough that it rendered the game completely unplayable for several minutes. Yet, the overall convenience of the service makes me willing to put up with its current flaws.
 
 ## Streaming comes with nice perks
-{% include image.html url="/assets/stadia/konami-e1553054350799.png" alt="Picture of the back of the Stadia controller" description="The game controller features the Konami Code" %}
+{% include image.html url="/assets/stadia/konami-e1553054350799.png" alt="Picture of the back of the Stadia controller" caption="The game controller features the Konami Code" %}
 
 Google's service will let you play AAA games on an old netbook. This is already nice in itself, but it gets even better the more you think about it.
 

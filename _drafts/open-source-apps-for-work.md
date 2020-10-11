@@ -13,7 +13,7 @@ tags:
   - Linux
 comments: true
 ---
-{% include image.html url=page.image alt="Photo by Marvin Meyer on Unsplash" description='Photo by <a href="https://unsplash.com/@marvelous?utm_source=unsplash&amp;utm_medium=referral" rel="noopener noreferrer" target="_blank">Marvin Meyer</a> on <a href="https://unsplash.com/s/photos/work?utm_source=unsplash&amp;utm_medium=referral" rel="noopener noreferrer" target="_blank">Unsplash</a>' %}
+{% include image.html url=page.image alt="Photo by Marvin Meyer on Unsplash" caption='Photo by <a href="https://unsplash.com/@marvelous?utm_source=unsplash&amp;utm_medium=referral" rel="noopener noreferrer" target="_blank">Marvin Meyer</a> on <a href="https://unsplash.com/s/photos/work?utm_source=unsplash&amp;utm_medium=referral" rel="noopener noreferrer" target="_blank">Unsplash</a>' %}
 
 Here is a list of open source software that are useful in a professional context.
 
