@@ -10,7 +10,7 @@ published: true
 
 Offline Spyfall is a server-free, standalone game inspired by [Spyfall](https://hwint.ru/portfolio-item/spyfall/) that can be played without an internet connection.
 
-* Play the game: https://spy.verybadfrags.com
+* [Play the game](https://spy.verybadfrags.com)
 * [Source code on GitHub](https://github.com/VeryBadFrags/offline-spy) (MIT Licence)
 
 ## Renard
