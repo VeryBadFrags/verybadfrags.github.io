@@ -7,7 +7,7 @@ layout: post
 permalink: /2017/12/05/remap-your-cuphead-controls-for-a-better-experience/
 timeline_notification:
   - "1539796567"
-image: /wp-content/uploads/2018/10/cuphead_hero.png
+image: /assets/cuphead/cuphead_hero.png
 categories:
   - Gaming
 tags:
@@ -16,7 +16,7 @@ tags:
   - Tips
 comments: true
 ---
-![Hero](/wp-content/uploads/2018/10/cuphead_hero.png)
+![Hero](/assets/cuphead/cuphead_hero.png)
 
 Cuphead is an awesome game, but it is also extremely hard. Each level will try your reflexes, and the slightest mistake will be severely punished. While everything in the game is trying to kill you, I have found that you may be able to perform better just by remapping your controls.
 
@@ -28,7 +28,7 @@ While pretty standard, the default controller mapping is rather inefficient as i
 
 For a more comfortable experience, try the following mapping:
 
-![Controller Mapping](/wp-content/uploads/2018/10/controller.png)
+![Controller Mapping](/assets/cuphead/controller.png)
 
 * The shooting buttons are moved to the triggers - which are always accessible.
 * Jumping and dashing are handled by your right thumb.

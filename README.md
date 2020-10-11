@@ -3,11 +3,11 @@
 ## Setup
 
 ```
-gem install jekyll bundler
+gem install bundler
 ```
 
 ## Build
 
 ```shell
-bundle exec jekyll serve
+bundle exec jekyll serve --drafts
 ```

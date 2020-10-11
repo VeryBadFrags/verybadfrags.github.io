@@ -7,7 +7,7 @@ layout: post
 permalink: /2019/04/14/play-age-of-empires-iii-on-linux/
 timeline_notification:
   - "1555306529"
-image: /wp-content/uploads/2019/04/age-3-hero.png
+image: /assets/aoe3/age-3-hero.png
 categories:
   - Gaming
 tags:
@@ -27,13 +27,13 @@ tags:
   - winetricks
 comments: true
 ---
-![Age of Empires III](/wp-content/uploads/2019/04/age-3-hero.png)
+![Age of Empires III](/assets/aoe3/age-3-hero.png)
 
 Gaming on Linux is getting easier than ever thanks to huge efforts from the community, but there are still some hurdles left before you can play some of your favorite games.
 
 As I tried to play *Age of Empires III: Complete Edition* on Steam, I was greeted with the following **Invalid CD Key** error:
 
-![PID Generator DLL](/wp-content/uploads/2019/04/invalid_key.png)
+![PID Generator DLL](/assets/aoe3/invalid_key.png)
 > Error loading the PID Generator DLL. The DLL could not be found!
 >
 > Please make sure the file is available in the installation directory and try again,
@@ -48,11 +48,11 @@ The problem is known and there are already some instructions out there, but I co
 * Log in
 * In the Steam settings, enable Proton for non-supported games (use the latest stable version)
 
-![Image](/wp-content/uploads/2019/04/steam-proton-settings.png)
+![Image](/assets/aoe3/steam-proton-settings.png)
 
 * Install the game, **run it once**, then exit when you get to the CD key input
 
-![Enter your Product Key](/wp-content/uploads/2019/04/key-input.png)
+![Enter your Product Key](/assets/aoe3/key-input.png)
 *This is painful*
 
 * Install **[winetricks](https://github.com/Winetricks/winetricks)** if you don't already have it (you can also find it in *apt*)
@@ -93,7 +93,7 @@ protontricks 105450 mfc42 winxp l3codecx corefonts
 
 That's it! You should be able to (painstakingly) input your CD key and play the game. Make sure to set the game's resolution properly, because the UI is pretty buggy otherwise. Now go settle the New World for the Queen or something.
 
-![Game Screenshot](/wp-content/uploads/2019/04/age-3-game-screenshot.png)
+![Game Screenshot](/assets/aoe3/age-3-game-screenshot.png)
 *Looking good for a game from 2005*
 
 Feel free to comment below if you are still experiencing issues playing the game.

@@ -7,7 +7,7 @@ layout: post
 permalink: /2019/03/19/google-stadia-specs-and-analysis/
 timeline_notification:
   - "1553054718"
-image: /wp-content/uploads/2019/03/stadia-1.png
+image: /assets/stadia/stadia-1.png
 categories:
   - Gaming
 tags:
@@ -23,7 +23,7 @@ tags:
   - Windows
 comments: true
 ---
-![Google Stadia](/wp-content/uploads/2019/03/stadia-1.png)
+![Google Stadia](/assets/stadia/stadia-1.png)
 
 Today, Google announced [Stadia](https://store.google.com/magazine/stadia), its new game streaming service. Following up on their successful [Project Stream](https://projectstream.google.com) experiment, they are now ready to release a full platform later this year, and the features look definitely promising. If this platform manages to get enough attention and support from Google, this could mean a lot for gamers and the gaming industry in general.
 
@@ -31,7 +31,7 @@ Today, Google announced [Stadia](https://store.google.com/magazine/stadia), its 
 <!--more-->
 <!-- /wp:more -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HikAuH40fHc" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ry72b_fIKAk" frameborder="0" allow="clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Specs
 
@@ -53,13 +53,13 @@ This is what we know so far about Stadia:
 
 ## From Project Stream to Stadia
 
-![Assassin's Creed Odyssey](/wp-content/uploads/2019/03/assassins-creed-odyssey-hud-2.jpg)
+![Assassin's Creed Odyssey](/assets/stadia/assassins-creed-odyssey-hud-2.jpg)
 
 Google has already shown that they can handle smoothly streaming AAA games with Project Stream. The experiment let you play [Ubisoft's Assassin's Creed Odyssey](https://www.youtube.com/watch?v=ACZpHzBKCqU) in 1080p 60fps at full settings on basically any desktop that's able to run Chrome. The beta was really impressive and I was able to complete the game very comfortably. There were times where the video would drop to lower bitrates to make up for the poor connection, similar to what you can experience with a regular stream. Also, I had a couple of occurrences (over dozens of hours of gameplay) where my connection was bad enough that it rendered the game completely unplayable for several minutes. Yet, the overall convenience of the service makes me willing to put up with its current flaws.
 
 ## Streaming comes with nice perks
 
-![Konami Code](/wp-content/uploads/2019/03/konami-e1553054350799.png)
+![Konami Code](/assets/stadia/konami-e1553054350799.png)
 
 Google's service will let you play AAA games on an old netbook. This is already nice in itself, but it gets even better the more you think about it.
 
@@ -89,7 +89,7 @@ Stadia games will be using the [Vulkan API](https://en.wikipedia.org/wiki/Vulkan
 
 ## A long way to success
 
-![The Stadia Controller](/wp-content/uploads/2019/03/controller.jpg)
+![The Stadia Controller](/assets/stadia/controller.jpg)
 
 There are several criteria required before Google can succeed with Stadia. Not everyone has the internet connection required to power a steady video stream, and a lot of gamers won't be willing to give up on the comfort of a stable gameplay experience provided by a console or a PC.
 
@@ -102,3 +102,23 @@ Finally, Google's worst enemy is probably themselves, as they have a long histor
 ---
 
 Are you convinced by video game streaming services? How much are you willing to pay for Stadia?
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+        this.page.url = '{{ page.url | absolute_url }}';
+        this.page.identifier = '{{ page.id}}';
+    };
+
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
+        
+        s.src = 'https://verybadfrags.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{% endif %}
