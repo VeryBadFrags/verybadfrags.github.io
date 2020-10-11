@@ -48,7 +48,7 @@ The problem is known and there are already some instructions out there, but I co
 
 * Install the game, **run it once**, then exit when you get to the CD key input
 
-{% include image.html url="/assets/aoe3/key-input.png" description="This is painful" %}
+{% include image.html url="/assets/aoe3/key-input.png" alt="Input form for the game CD Key" description="This is painful" %}
 
 * Install **[winetricks](https://github.com/Winetricks/winetricks)** if you don't already have it (you can also find it in *apt*)
 
@@ -88,7 +88,7 @@ protontricks 105450 mfc42 winxp l3codecx corefonts
 
 That's it! You should be able to (painstakingly) input your CD key and play the game. Make sure to set the game's resolution properly, because the UI is pretty buggy otherwise. Now go settle the New World for the Queen or something.
 
-{% include image.html url="/assets/aoe3/age-3-game-screenshot.png" description="Looking good for a game from 2005" %}
+{% include image.html url="/assets/aoe3/age-3-game-screenshot.png" alt="Screenshot of the main menu of Age of Empires III" description="Looking good for a game from 2005" %}
 
 Feel free to comment below if you are still experiencing issues playing the game.
 

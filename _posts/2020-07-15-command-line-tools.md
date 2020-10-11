@@ -14,7 +14,7 @@ tags:
   - Linux
 comments: true
 ---
-{% include image.html url=page.image description="Weather report for Paris from wttr.in" %}
+{% include image.html url=page.image alt="Weather report for Paris from wttr.in" description="Weather report for Paris from wttr.in" %}
 
 Here are some cool command-line tools I use. Feel free to share your tips in the comments.
 
