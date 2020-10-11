@@ -16,7 +16,7 @@ tags:
   - Tips
 comments: true
 ---
-![Hero](/assets/cuphead/cuphead_hero.png)
+![Hero]({{ page.image }})
 
 Cuphead is an awesome game, but it is also extremely hard. Each level will try your reflexes, and the slightest mistake will be severely punished. While everything in the game is trying to kill you, I have found that you may be able to perform better just by remapping your controls.
 
@@ -41,7 +41,7 @@ This new mapping has helped me finish a handful of bosses that were giving me a 
 <script>
     var disqus_config = function () {
         this.page.url = '{{ page.url | absolute_url }}';
-        this.page.identifier = '{{ page.id}}';
+        this.page.identifier = '{{ page.id }}';
     };
 
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW

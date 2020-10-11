@@ -5,8 +5,6 @@ date: 2019-04-14T22:35:23-07:00
 author: VeryBadFrags
 layout: post
 permalink: /2019/04/14/play-age-of-empires-iii-on-linux/
-timeline_notification:
-  - "1555306529"
 image: /assets/aoe3/age-3-hero.png
 categories:
   - Gaming
@@ -27,7 +25,7 @@ tags:
   - winetricks
 comments: true
 ---
-![Age of Empires III](/assets/aoe3/age-3-hero.png)
+![Age of Empires III]({{ page.image }})
 
 Gaming on Linux is getting easier than ever thanks to huge efforts from the community, but there are still some hurdles left before you can play some of your favorite games.
 
@@ -107,7 +105,7 @@ Feel free to comment below if you are still experiencing issues playing the game
 <script>
     var disqus_config = function () {
         this.page.url = '{{ page.url | absolute_url }}';
-        this.page.identifier = '{{ page.id}}';
+        this.page.identifier = '{{ page.id }}';
     };
 
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW

@@ -49,7 +49,7 @@ https://rectangleapp.com
 <script>
     var disqus_config = function () {
         this.page.url = '{{ page.url | absolute_url }}';
-        this.page.identifier = '{{ page.id}}';
+        this.page.identifier = '{{ page.id }}';
     };
 
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW

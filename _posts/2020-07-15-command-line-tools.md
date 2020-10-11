@@ -14,7 +14,7 @@ tags:
   - Linux
 comments: true
 ---
-![Weather report for Paris from wttr.in](/assets/command-line-wttr-paris.png)
+![Weather report for Paris from wttr.in]({{ page.image }})
 
 Here are some cool command-line tools I use. Feel free to share your tips in the comments.
 
@@ -153,7 +153,7 @@ mpv https://www.youtube.com/watch?v=dQw4w9WgXcQ
 <script>
     var disqus_config = function () {
         this.page.url = '{{ page.url | absolute_url }}';
-        this.page.identifier = '{{ page.id}}';
+        this.page.identifier = '{{ page.id }}';
     };
 
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW

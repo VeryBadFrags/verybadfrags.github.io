@@ -5,8 +5,6 @@ date: 2019-03-19T21:05:12-07:00
 author: VeryBadFrags
 layout: post
 permalink: /2019/03/19/google-stadia-specs-and-analysis/
-timeline_notification:
-  - "1553054718"
 image: /assets/stadia/stadia-1.png
 categories:
   - Gaming
@@ -23,7 +21,7 @@ tags:
   - Windows
 comments: true
 ---
-![Google Stadia](/assets/stadia/stadia-1.png)
+![Google Stadia]({{ page.image }})
 
 Today, Google announced [Stadia](https://store.google.com/magazine/stadia), its new game streaming service. Following up on their successful [Project Stream](https://projectstream.google.com) experiment, they are now ready to release a full platform later this year, and the features look definitely promising. If this platform manages to get enough attention and support from Google, this could mean a lot for gamers and the gaming industry in general.
 
@@ -108,7 +106,7 @@ Are you convinced by video game streaming services? How much are you willing to 
 <script>
     var disqus_config = function () {
         this.page.url = '{{ page.url | absolute_url }}';
-        this.page.identifier = '{{ page.id}}';
+        this.page.identifier = '{{ page.id }}';
     };
 
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
