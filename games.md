@@ -6,6 +6,13 @@ layout: page
 permalink: /games/
 published: true
 ---
+## Offline Werewolf
+
+Offline Werewolf is a server-free, standalone spin on the [Mafia/Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)) formula.
+
+* [Play the game](https://wolf.verybadfrags.com)
+* [Source code on GitHub](https://github.com/VeryBadFrags/offline-werewolf)
+
 ## Offline Spyfall
 
 Offline Spyfall is a server-free, standalone game inspired by [Spyfall](https://hwint.ru/portfolio-item/spyfall/) that can be played without an internet connection.
