@@ -1,15 +1,10 @@
-target: open serve
+build: _drafts/ _config.yml _posts/ assets/
+	bundle exec jekyll build
 
-.PHONY: build clean open serve target
+.PHONY: build serve clean
 
 serve:
 	bundle exec jekyll serve --drafts
-
-open:
-	open http://127.0.0.1:4000/
-
-build: _drafts/ _config.yml _posts/ assets/
-	bundle exec jekyll build
 
 clean:
 	rm -rf _site/

@@ -1,13 +1,22 @@
-# VeryBadFrags
+# VeryBadFrags Blog
 
 ## Setup
 
-```
-gem install bundler
+* Get [Ruby](https://www.ruby-lang.org/)
+
+* Install [Bundler](https://bundler.io/)
+    ```sh
+    gem install bundler
+    ```
+
+## Build
+
+```sh
+make
 ```
 
 ## Serve
 
 ```shell
-make
+bundle exec jekyll serve --drafts
 ```
