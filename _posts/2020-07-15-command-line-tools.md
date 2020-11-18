@@ -152,7 +152,7 @@ mpv https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ## Bonus
 
-### qrenco.de
+### [qrenco.de](https://qrenco.de)
 
 Generate a text-based QR Code by calling this service.
 
@@ -179,7 +179,5 @@ curl qrenco.de/https://www.verybadfrags.com
 █████████████████████████████████
 █████████████████████████████████
 ```
-
-[Source](https://github.com/chubin/qrenco.de)
 
 {% include comments.html %}
