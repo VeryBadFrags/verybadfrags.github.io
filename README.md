@@ -20,3 +20,7 @@ make
 ```shell
 bundle exec jekyll serve --drafts
 ```
+
+## Sources
+
+Favicon by [UXWing](https://uxwing.com/)
