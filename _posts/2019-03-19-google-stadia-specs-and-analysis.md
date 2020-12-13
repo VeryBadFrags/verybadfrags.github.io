@@ -16,7 +16,7 @@ tags:
   - Linux Gaming
   - macOS
   - Stadia
-  - Streaming
+  - Cloud Gaming
   - Vulkan
   - Windows
 comments: true
