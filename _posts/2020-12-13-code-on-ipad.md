@@ -15,7 +15,7 @@ tags:
   - Cloud Gaming
 comments: true
 ---
-{% include image.html url=page.image alt="VSCode on an iPad" caption="A picture of an iPad running VSCode in a Shadow Windows VM" %}
+{% include image.html url=page.image alt="VSCode on an iPad" caption="An iPad running VSCode, streaming from a Shadow Windows VM" %}
 
 Here's a way to leverage Shadow to code in VSCode with WSL on an iPad, an Android tablet, or even a Chromebook that can run Google Play.
 
