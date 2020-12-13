@@ -17,7 +17,7 @@ comments: true
 ---
 {% include image.html url=page.image alt="VSCode on an iPad" caption="An iPad running VSCode, streaming from a Shadow Windows VM" %}
 
-Here's a way to leverage Shadow to code in VSCode with WSL on an iPad, an Android tablet, or even a Chromebook that can run Google Play.
+Here's a way to leverage [Shadow](https://shadow.tech) to code in VSCode with WSL on an iPad, an Android tablet, or even a Chromebook that can run Google Play.
 
 Shadow is a cloud gaming service that lets you "rent" a remote gaming PC VM and stream its content on your local client.
 
