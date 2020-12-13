@@ -3,7 +3,7 @@ title: Code on an iPad with Shadow
 date: 2020-12-13T11:26:00-07:00
 author: VeryBadFrags
 layout: post
-image: /assets/code-ipad/code-ipad-top.jpeg
+image: /assets/code-ipad-shadow/code-ipad-top.jpg
 categories:
   - Software
 tags:
