@@ -44,7 +44,7 @@ The problem is known and there are already some instructions out there, but I co
 * Log in
 * In the Steam settings, enable Proton for non-supported games (use the latest stable version)
 
-![Image](/assets/aoe3/steam-proton-settings.png)
+![Proton Settings](/assets/aoe3/steam-proton-settings.png)
 
 * Install the game, **run it once**, then exit when you get to the CD key input
 
